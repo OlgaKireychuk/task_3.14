@@ -11,11 +11,11 @@ LICENSE: [MIT](license.md)
 2. [Установка GIT](Pages/install.md)
 3. [Файл .gitignore](Pages/ignore.md)
 4. Основные команды
-  * [git config](Pages/config.md)
-  * [git init](Pages/init.md)
-  * [git add](Pages/add.md)
-  * [git commit](Pages/commit.md)
-  * [git clone](Pages/clone.md)
+   * [git config](Pages/config.md)
+   * [git init](Pages/init.md)
+   * [git add](Pages/add.md)
+   * [git commit](Pages/commit.md)
+   * [git clone](Pages/clone.md)
 
 ---
 
