@@ -7,15 +7,15 @@ LICENSE: [MIT](license.md)
 ---
 
 ## Содержание:
-1. [Что такое GIT?](Pages\about.md)
-2. [Установка GIT](Pages\install.md)
-3. [Файл .gitignore](Pages\ignore.md)
+1. [Что такое GIT?](Pages/about.md)
+2. [Установка GIT](Pages/install.md)
+3. [Файл .gitignore](Pages/ignore.md)
 4. Основные команды
-   1. [git config](Pages\config.md)
-   2. [git init](Pages\init.md)
-   3. [git add](Pages\add.md)
-   4. [git commit](Pages\commit.md)
-   5. [git clone](Pages\clone.md)
+   1. [git config](Pages/config.md)
+   2. [git init](Pages/init.md)
+   3. [git add](Pages/add.md)
+   4. [git commit](Pages/commit.md)
+   5. [git clone](Pages/clone.md)
 
 ---
 
