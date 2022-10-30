@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](license.md)
 
-![Тут должен быть лого, но он не загрузился :(](Img\Git-Logo-Black.png)
+![Тут должен быть лого, но он не загрузился :(](Img/Git-Logo-Black.png)
 
 ---
 
